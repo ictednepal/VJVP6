@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.AssemblyInfo.cs
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\d_class_data_members\bin\Debug\net7.0\d_class_data_members.exe
+D:\VJVP6\1_Basics\d_class_data_members\bin\Debug\net7.0\d_class_data_members.deps.json
+D:\VJVP6\1_Basics\d_class_data_members\bin\Debug\net7.0\d_class_data_members.runtimeconfig.json
+D:\VJVP6\1_Basics\d_class_data_members\bin\Debug\net7.0\d_class_data_members.dll
+D:\VJVP6\1_Basics\d_class_data_members\bin\Debug\net7.0\d_class_data_members.pdb
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.dll
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\refint\d_class_data_members.dll
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.pdb
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\d_class_data_members.genruntimeconfig.cache
+D:\VJVP6\1_Basics\d_class_data_members\obj\Debug\net7.0\ref\d_class_data_members.dll

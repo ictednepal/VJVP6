@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\b_hello_sanothimi\bin\Debug\net7.0\b_hello_sanothimi.exe
+D:\VJVP6\1_Basics\b_hello_sanothimi\bin\Debug\net7.0\b_hello_sanothimi.deps.json
+D:\VJVP6\1_Basics\b_hello_sanothimi\bin\Debug\net7.0\b_hello_sanothimi.runtimeconfig.json
+D:\VJVP6\1_Basics\b_hello_sanothimi\bin\Debug\net7.0\b_hello_sanothimi.dll
+D:\VJVP6\1_Basics\b_hello_sanothimi\bin\Debug\net7.0\b_hello_sanothimi.pdb
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.AssemblyInfo.cs
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.dll
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\refint\b_hello_sanothimi.dll
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.pdb
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\b_hello_sanothimi.genruntimeconfig.cache
+D:\VJVP6\1_Basics\b_hello_sanothimi\obj\Debug\net7.0\ref\b_hello_sanothimi.dll

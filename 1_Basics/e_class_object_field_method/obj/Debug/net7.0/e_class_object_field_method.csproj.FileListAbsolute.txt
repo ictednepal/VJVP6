@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\e_class_object_field_method\bin\Debug\net7.0\e_class_object_field_method.exe
+D:\VJVP6\1_Basics\e_class_object_field_method\bin\Debug\net7.0\e_class_object_field_method.deps.json
+D:\VJVP6\1_Basics\e_class_object_field_method\bin\Debug\net7.0\e_class_object_field_method.runtimeconfig.json
+D:\VJVP6\1_Basics\e_class_object_field_method\bin\Debug\net7.0\e_class_object_field_method.dll
+D:\VJVP6\1_Basics\e_class_object_field_method\bin\Debug\net7.0\e_class_object_field_method.pdb
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.AssemblyInfo.cs
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.dll
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\refint\e_class_object_field_method.dll
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.pdb
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\e_class_object_field_method.genruntimeconfig.cache
+D:\VJVP6\1_Basics\e_class_object_field_method\obj\Debug\net7.0\ref\e_class_object_field_method.dll

@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.exe
+D:\VJVP6\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.deps.json
+D:\VJVP6\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.runtimeconfig.json
+D:\VJVP6\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.dll
+D:\VJVP6\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.pdb
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.AssemblyInfo.cs
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.dll
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\refint\a_hello_nepal.dll
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.pdb
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.genruntimeconfig.cache
+D:\VJVP6\1_Basics\a_hello_nepal\obj\Debug\net7.0\ref\a_hello_nepal.dll
