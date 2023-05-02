@@ -1,0 +1,15 @@
+D:\VJVP6\2_Control_Statement\g_do_while\bin\Debug\net7.0\g_do_while.exe
+D:\VJVP6\2_Control_Statement\g_do_while\bin\Debug\net7.0\g_do_while.deps.json
+D:\VJVP6\2_Control_Statement\g_do_while\bin\Debug\net7.0\g_do_while.runtimeconfig.json
+D:\VJVP6\2_Control_Statement\g_do_while\bin\Debug\net7.0\g_do_while.dll
+D:\VJVP6\2_Control_Statement\g_do_while\bin\Debug\net7.0\g_do_while.pdb
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.csproj.AssemblyReference.cache
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.AssemblyInfoInputs.cache
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.AssemblyInfo.cs
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.csproj.CoreCompileInputs.cache
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.dll
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\refint\g_do_while.dll
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.pdb
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\g_do_while.genruntimeconfig.cache
+D:\VJVP6\2_Control_Statement\g_do_while\obj\Debug\net7.0\ref\g_do_while.dll

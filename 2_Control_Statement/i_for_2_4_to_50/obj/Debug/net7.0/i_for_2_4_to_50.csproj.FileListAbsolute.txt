@@ -1,0 +1,15 @@
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\bin\Debug\net7.0\i_for_2_4_to_50.exe
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\bin\Debug\net7.0\i_for_2_4_to_50.deps.json
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\bin\Debug\net7.0\i_for_2_4_to_50.runtimeconfig.json
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\bin\Debug\net7.0\i_for_2_4_to_50.dll
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\bin\Debug\net7.0\i_for_2_4_to_50.pdb
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.csproj.AssemblyReference.cache
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.AssemblyInfoInputs.cache
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.AssemblyInfo.cs
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.csproj.CoreCompileInputs.cache
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.dll
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\refint\i_for_2_4_to_50.dll
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.pdb
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\i_for_2_4_to_50.genruntimeconfig.cache
+D:\VJVP6\2_Control_Statement\i_for_2_4_to_50\obj\Debug\net7.0\ref\i_for_2_4_to_50.dll

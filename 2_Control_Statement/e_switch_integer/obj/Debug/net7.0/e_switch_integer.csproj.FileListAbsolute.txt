@@ -1,0 +1,15 @@
+D:\VJVP6\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.exe
+D:\VJVP6\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.deps.json
+D:\VJVP6\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.runtimeconfig.json
+D:\VJVP6\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.dll
+D:\VJVP6\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.pdb
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.csproj.AssemblyReference.cache
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.AssemblyInfoInputs.cache
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.AssemblyInfo.cs
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.csproj.CoreCompileInputs.cache
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.dll
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\refint\e_switch_integer.dll
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.pdb
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.genruntimeconfig.cache
+D:\VJVP6\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\ref\e_switch_integer.dll

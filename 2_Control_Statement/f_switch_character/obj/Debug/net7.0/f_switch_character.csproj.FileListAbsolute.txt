@@ -1,0 +1,15 @@
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.csproj.AssemblyReference.cache
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.AssemblyInfoInputs.cache
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.AssemblyInfo.cs
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.csproj.CoreCompileInputs.cache
+D:\VJVP6\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.exe
+D:\VJVP6\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.deps.json
+D:\VJVP6\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.runtimeconfig.json
+D:\VJVP6\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.dll
+D:\VJVP6\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.pdb
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.dll
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\refint\f_switch_character.dll
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.pdb
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.genruntimeconfig.cache
+D:\VJVP6\2_Control_Statement\f_switch_character\obj\Debug\net7.0\ref\f_switch_character.dll

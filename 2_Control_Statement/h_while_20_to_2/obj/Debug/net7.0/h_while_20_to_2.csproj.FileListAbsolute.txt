@@ -1,0 +1,15 @@
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\bin\Debug\net7.0\h_while_20_to_2.exe
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\bin\Debug\net7.0\h_while_20_to_2.deps.json
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\bin\Debug\net7.0\h_while_20_to_2.runtimeconfig.json
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\bin\Debug\net7.0\h_while_20_to_2.dll
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\bin\Debug\net7.0\h_while_20_to_2.pdb
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.csproj.AssemblyReference.cache
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.AssemblyInfoInputs.cache
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.AssemblyInfo.cs
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.csproj.CoreCompileInputs.cache
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.dll
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\refint\h_while_20_to_2.dll
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.pdb
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\h_while_20_to_2.genruntimeconfig.cache
+D:\VJVP6\2_Control_Statement\h_while_20_to_2\obj\Debug\net7.0\ref\h_while_20_to_2.dll
