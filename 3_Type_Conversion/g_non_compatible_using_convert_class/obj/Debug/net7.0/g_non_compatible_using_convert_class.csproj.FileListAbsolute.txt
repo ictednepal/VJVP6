@@ -1,0 +1,15 @@
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\bin\Debug\net7.0\g_non_compatible_using_convert_class.exe
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\bin\Debug\net7.0\g_non_compatible_using_convert_class.deps.json
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\bin\Debug\net7.0\g_non_compatible_using_convert_class.runtimeconfig.json
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\bin\Debug\net7.0\g_non_compatible_using_convert_class.dll
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\bin\Debug\net7.0\g_non_compatible_using_convert_class.pdb
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.csproj.AssemblyReference.cache
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.AssemblyInfoInputs.cache
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.AssemblyInfo.cs
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.csproj.CoreCompileInputs.cache
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.dll
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\refint\g_non_compatible_using_convert_class.dll
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.pdb
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\g_non_compatible_using_convert_class.genruntimeconfig.cache
+D:\VJVP\3_Type_Conversion\g_non_compatible_using_convert_class\obj\Debug\net7.0\ref\g_non_compatible_using_convert_class.dll

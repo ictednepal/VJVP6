@@ -1,0 +1,15 @@
+D:\VJVP\3_Type_Conversion\a_implicit\bin\Debug\net7.0\a_implicit.exe
+D:\VJVP\3_Type_Conversion\a_implicit\bin\Debug\net7.0\a_implicit.deps.json
+D:\VJVP\3_Type_Conversion\a_implicit\bin\Debug\net7.0\a_implicit.runtimeconfig.json
+D:\VJVP\3_Type_Conversion\a_implicit\bin\Debug\net7.0\a_implicit.dll
+D:\VJVP\3_Type_Conversion\a_implicit\bin\Debug\net7.0\a_implicit.pdb
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.csproj.AssemblyReference.cache
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.AssemblyInfoInputs.cache
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.AssemblyInfo.cs
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.csproj.CoreCompileInputs.cache
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.dll
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\refint\a_implicit.dll
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.pdb
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\a_implicit.genruntimeconfig.cache
+D:\VJVP\3_Type_Conversion\a_implicit\obj\Debug\net7.0\ref\a_implicit.dll
