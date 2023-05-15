@@ -1,0 +1,15 @@
+D:\VJVP6\4_Class_Object\c_class_object\bin\Debug\net7.0\c_class_object.exe
+D:\VJVP6\4_Class_Object\c_class_object\bin\Debug\net7.0\c_class_object.deps.json
+D:\VJVP6\4_Class_Object\c_class_object\bin\Debug\net7.0\c_class_object.runtimeconfig.json
+D:\VJVP6\4_Class_Object\c_class_object\bin\Debug\net7.0\c_class_object.dll
+D:\VJVP6\4_Class_Object\c_class_object\bin\Debug\net7.0\c_class_object.pdb
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.csproj.AssemblyReference.cache
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.AssemblyInfoInputs.cache
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.AssemblyInfo.cs
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.csproj.CoreCompileInputs.cache
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.dll
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\refint\c_class_object.dll
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.pdb
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\c_class_object.genruntimeconfig.cache
+D:\VJVP6\4_Class_Object\c_class_object\obj\Debug\net7.0\ref\c_class_object.dll

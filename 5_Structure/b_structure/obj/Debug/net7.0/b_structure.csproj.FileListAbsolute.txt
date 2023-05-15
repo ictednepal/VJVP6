@@ -1,0 +1,15 @@
+D:\VJVP6\5_Structure\b_structure\bin\Debug\net7.0\b_structure.exe
+D:\VJVP6\5_Structure\b_structure\bin\Debug\net7.0\b_structure.deps.json
+D:\VJVP6\5_Structure\b_structure\bin\Debug\net7.0\b_structure.runtimeconfig.json
+D:\VJVP6\5_Structure\b_structure\bin\Debug\net7.0\b_structure.dll
+D:\VJVP6\5_Structure\b_structure\bin\Debug\net7.0\b_structure.pdb
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.csproj.AssemblyReference.cache
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.AssemblyInfoInputs.cache
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.AssemblyInfo.cs
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.csproj.CoreCompileInputs.cache
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.dll
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\refint\b_structure.dll
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.pdb
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\b_structure.genruntimeconfig.cache
+D:\VJVP6\5_Structure\b_structure\obj\Debug\net7.0\ref\b_structure.dll
