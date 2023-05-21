@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "a_cons_overloading_diff_no_of_argument/1.0.0": {
+        "runtime": {
+          "a_cons_overloading_diff_no_of_argument.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "a_cons_overloading_diff_no_of_argument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

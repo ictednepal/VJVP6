@@ -1,0 +1,15 @@
+D:\VJVP6\7_Constructor\a_constructor\bin\Debug\net7.0\a_constructor.exe
+D:\VJVP6\7_Constructor\a_constructor\bin\Debug\net7.0\a_constructor.deps.json
+D:\VJVP6\7_Constructor\a_constructor\bin\Debug\net7.0\a_constructor.runtimeconfig.json
+D:\VJVP6\7_Constructor\a_constructor\bin\Debug\net7.0\a_constructor.dll
+D:\VJVP6\7_Constructor\a_constructor\bin\Debug\net7.0\a_constructor.pdb
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.csproj.AssemblyReference.cache
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.AssemblyInfoInputs.cache
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.AssemblyInfo.cs
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.csproj.CoreCompileInputs.cache
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.dll
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\refint\a_constructor.dll
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.pdb
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\a_constructor.genruntimeconfig.cache
+D:\VJVP6\7_Constructor\a_constructor\obj\Debug\net7.0\ref\a_constructor.dll
