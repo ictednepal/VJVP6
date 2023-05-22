@@ -1,0 +1,15 @@
+D:\VJVP6\11_Partial_class\bin\Debug\net7.0\11_Partial_class.exe
+D:\VJVP6\11_Partial_class\bin\Debug\net7.0\11_Partial_class.deps.json
+D:\VJVP6\11_Partial_class\bin\Debug\net7.0\11_Partial_class.runtimeconfig.json
+D:\VJVP6\11_Partial_class\bin\Debug\net7.0\11_Partial_class.dll
+D:\VJVP6\11_Partial_class\bin\Debug\net7.0\11_Partial_class.pdb
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.csproj.AssemblyReference.cache
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.AssemblyInfoInputs.cache
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.AssemblyInfo.cs
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.csproj.CoreCompileInputs.cache
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.dll
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\refint\11_Partial_class.dll
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.pdb
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\11_Partial_class.genruntimeconfig.cache
+D:\VJVP6\11_Partial_class\obj\Debug\net7.0\ref\11_Partial_class.dll

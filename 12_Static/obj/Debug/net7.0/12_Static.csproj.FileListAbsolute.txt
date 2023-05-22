@@ -1,0 +1,15 @@
+D:\VJVP6\12_Static\bin\Debug\net7.0\12_Static.exe
+D:\VJVP6\12_Static\bin\Debug\net7.0\12_Static.deps.json
+D:\VJVP6\12_Static\bin\Debug\net7.0\12_Static.runtimeconfig.json
+D:\VJVP6\12_Static\bin\Debug\net7.0\12_Static.dll
+D:\VJVP6\12_Static\bin\Debug\net7.0\12_Static.pdb
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.csproj.AssemblyReference.cache
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.AssemblyInfoInputs.cache
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.AssemblyInfo.cs
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.csproj.CoreCompileInputs.cache
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.dll
+D:\VJVP6\12_Static\obj\Debug\net7.0\refint\12_Static.dll
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.pdb
+D:\VJVP6\12_Static\obj\Debug\net7.0\12_Static.genruntimeconfig.cache
+D:\VJVP6\12_Static\obj\Debug\net7.0\ref\12_Static.dll

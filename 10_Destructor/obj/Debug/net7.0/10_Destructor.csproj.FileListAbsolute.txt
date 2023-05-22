@@ -1,0 +1,15 @@
+D:\VJVP6\10_Destructor\bin\Debug\net7.0\10_Destructor.exe
+D:\VJVP6\10_Destructor\bin\Debug\net7.0\10_Destructor.deps.json
+D:\VJVP6\10_Destructor\bin\Debug\net7.0\10_Destructor.runtimeconfig.json
+D:\VJVP6\10_Destructor\bin\Debug\net7.0\10_Destructor.dll
+D:\VJVP6\10_Destructor\bin\Debug\net7.0\10_Destructor.pdb
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.csproj.AssemblyReference.cache
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.AssemblyInfoInputs.cache
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.AssemblyInfo.cs
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.csproj.CoreCompileInputs.cache
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.dll
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\refint\10_Destructor.dll
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.pdb
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\10_Destructor.genruntimeconfig.cache
+D:\VJVP6\10_Destructor\obj\Debug\net7.0\ref\10_Destructor.dll

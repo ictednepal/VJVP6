@@ -1,0 +1,15 @@
+D:\VJVP6\9_Parameterized_constructor\bin\Debug\net7.0\9_Parameterized_constructor.exe
+D:\VJVP6\9_Parameterized_constructor\bin\Debug\net7.0\9_Parameterized_constructor.deps.json
+D:\VJVP6\9_Parameterized_constructor\bin\Debug\net7.0\9_Parameterized_constructor.runtimeconfig.json
+D:\VJVP6\9_Parameterized_constructor\bin\Debug\net7.0\9_Parameterized_constructor.dll
+D:\VJVP6\9_Parameterized_constructor\bin\Debug\net7.0\9_Parameterized_constructor.pdb
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.csproj.AssemblyReference.cache
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.AssemblyInfoInputs.cache
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.AssemblyInfo.cs
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.csproj.CoreCompileInputs.cache
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.dll
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\refint\9_Parameterized_constructor.dll
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.pdb
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\9_Parameterized_constructor.genruntimeconfig.cache
+D:\VJVP6\9_Parameterized_constructor\obj\Debug\net7.0\ref\9_Parameterized_constructor.dll
