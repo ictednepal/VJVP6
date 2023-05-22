@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\h_string_fname_lname\bin\Debug\net7.0\h_string_fname_lname.exe
+D:\VJVP6\1_Basics\h_string_fname_lname\bin\Debug\net7.0\h_string_fname_lname.deps.json
+D:\VJVP6\1_Basics\h_string_fname_lname\bin\Debug\net7.0\h_string_fname_lname.runtimeconfig.json
+D:\VJVP6\1_Basics\h_string_fname_lname\bin\Debug\net7.0\h_string_fname_lname.dll
+D:\VJVP6\1_Basics\h_string_fname_lname\bin\Debug\net7.0\h_string_fname_lname.pdb
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.AssemblyInfo.cs
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.dll
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\refint\h_string_fname_lname.dll
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.pdb
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\h_string_fname_lname.genruntimeconfig.cache
+D:\VJVP6\1_Basics\h_string_fname_lname\obj\Debug\net7.0\ref\h_string_fname_lname.dll

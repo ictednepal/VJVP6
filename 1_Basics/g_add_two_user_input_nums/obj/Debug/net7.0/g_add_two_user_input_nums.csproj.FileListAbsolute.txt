@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\bin\Debug\net7.0\g_add_two_user_input_nums.exe
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\bin\Debug\net7.0\g_add_two_user_input_nums.deps.json
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\bin\Debug\net7.0\g_add_two_user_input_nums.runtimeconfig.json
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\bin\Debug\net7.0\g_add_two_user_input_nums.dll
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\bin\Debug\net7.0\g_add_two_user_input_nums.pdb
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.AssemblyInfo.cs
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.dll
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\refint\g_add_two_user_input_nums.dll
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.pdb
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\g_add_two_user_input_nums.genruntimeconfig.cache
+D:\VJVP6\1_Basics\g_add_two_user_input_nums\obj\Debug\net7.0\ref\g_add_two_user_input_nums.dll

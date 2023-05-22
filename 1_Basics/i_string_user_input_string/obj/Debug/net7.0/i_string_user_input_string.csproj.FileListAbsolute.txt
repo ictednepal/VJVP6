@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\i_string_user_input_string\bin\Debug\net7.0\i_string_user_input_string.exe
+D:\VJVP6\1_Basics\i_string_user_input_string\bin\Debug\net7.0\i_string_user_input_string.deps.json
+D:\VJVP6\1_Basics\i_string_user_input_string\bin\Debug\net7.0\i_string_user_input_string.runtimeconfig.json
+D:\VJVP6\1_Basics\i_string_user_input_string\bin\Debug\net7.0\i_string_user_input_string.dll
+D:\VJVP6\1_Basics\i_string_user_input_string\bin\Debug\net7.0\i_string_user_input_string.pdb
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.AssemblyInfo.cs
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.dll
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\refint\i_string_user_input_string.dll
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.pdb
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\i_string_user_input_string.genruntimeconfig.cache
+D:\VJVP6\1_Basics\i_string_user_input_string\obj\Debug\net7.0\ref\i_string_user_input_string.dll

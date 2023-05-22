@@ -1,0 +1,15 @@
+D:\VJVP6\1_Basics\f_add_two_nums\bin\Debug\net7.0\f_add_two_nums.exe
+D:\VJVP6\1_Basics\f_add_two_nums\bin\Debug\net7.0\f_add_two_nums.deps.json
+D:\VJVP6\1_Basics\f_add_two_nums\bin\Debug\net7.0\f_add_two_nums.runtimeconfig.json
+D:\VJVP6\1_Basics\f_add_two_nums\bin\Debug\net7.0\f_add_two_nums.dll
+D:\VJVP6\1_Basics\f_add_two_nums\bin\Debug\net7.0\f_add_two_nums.pdb
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.csproj.AssemblyReference.cache
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.AssemblyInfoInputs.cache
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.AssemblyInfo.cs
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.csproj.CoreCompileInputs.cache
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.dll
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\refint\f_add_two_nums.dll
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.pdb
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\f_add_two_nums.genruntimeconfig.cache
+D:\VJVP6\1_Basics\f_add_two_nums\obj\Debug\net7.0\ref\f_add_two_nums.dll

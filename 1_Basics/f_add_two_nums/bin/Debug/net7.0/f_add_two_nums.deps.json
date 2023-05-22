@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "f_add_two_nums/1.0.0": {
+        "runtime": {
+          "f_add_two_nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_add_two_nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

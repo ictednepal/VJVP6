@@ -1,5 +1,6 @@
 ﻿// by using diff data types in constructor overloading
 namespace c_cons_overloading_by_using_diff_data_types;
+#nullable disable
 
 public class Add
 {
