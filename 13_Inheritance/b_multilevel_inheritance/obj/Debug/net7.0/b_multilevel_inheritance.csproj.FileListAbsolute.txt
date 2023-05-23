@@ -1,0 +1,15 @@
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\bin\Debug\net7.0\b_multilevel_inheritance.exe
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\bin\Debug\net7.0\b_multilevel_inheritance.deps.json
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\bin\Debug\net7.0\b_multilevel_inheritance.runtimeconfig.json
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\bin\Debug\net7.0\b_multilevel_inheritance.dll
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\bin\Debug\net7.0\b_multilevel_inheritance.pdb
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.csproj.AssemblyReference.cache
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.AssemblyInfoInputs.cache
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.AssemblyInfo.cs
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.csproj.CoreCompileInputs.cache
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.dll
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\refint\b_multilevel_inheritance.dll
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.pdb
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\b_multilevel_inheritance.genruntimeconfig.cache
+D:\VJVP6\13_Inheritance\b_multilevel_inheritance\obj\Debug\net7.0\ref\b_multilevel_inheritance.dll

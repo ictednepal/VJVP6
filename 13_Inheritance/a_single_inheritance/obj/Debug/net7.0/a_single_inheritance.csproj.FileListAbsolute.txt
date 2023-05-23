@@ -1,0 +1,15 @@
+D:\VJVP6\13_Inheritance\a_single_inheritance\bin\Debug\net7.0\a_single_inheritance.exe
+D:\VJVP6\13_Inheritance\a_single_inheritance\bin\Debug\net7.0\a_single_inheritance.deps.json
+D:\VJVP6\13_Inheritance\a_single_inheritance\bin\Debug\net7.0\a_single_inheritance.runtimeconfig.json
+D:\VJVP6\13_Inheritance\a_single_inheritance\bin\Debug\net7.0\a_single_inheritance.dll
+D:\VJVP6\13_Inheritance\a_single_inheritance\bin\Debug\net7.0\a_single_inheritance.pdb
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.csproj.AssemblyReference.cache
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.AssemblyInfoInputs.cache
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.AssemblyInfo.cs
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.csproj.CoreCompileInputs.cache
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.dll
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\refint\a_single_inheritance.dll
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.pdb
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\a_single_inheritance.genruntimeconfig.cache
+D:\VJVP6\13_Inheritance\a_single_inheritance\obj\Debug\net7.0\ref\a_single_inheritance.dll
