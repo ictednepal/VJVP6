@@ -1,0 +1,15 @@
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.csproj.AssemblyReference.cache
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.AssemblyInfoInputs.cache
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.AssemblyInfo.cs
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.csproj.CoreCompileInputs.cache
+D:\VJVP6\13_Inheritance\e_single_same_method\bin\Debug\net7.0\e_single_same_method.exe
+D:\VJVP6\13_Inheritance\e_single_same_method\bin\Debug\net7.0\e_single_same_method.deps.json
+D:\VJVP6\13_Inheritance\e_single_same_method\bin\Debug\net7.0\e_single_same_method.runtimeconfig.json
+D:\VJVP6\13_Inheritance\e_single_same_method\bin\Debug\net7.0\e_single_same_method.dll
+D:\VJVP6\13_Inheritance\e_single_same_method\bin\Debug\net7.0\e_single_same_method.pdb
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.dll
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\refint\e_single_same_method.dll
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.pdb
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\e_single_same_method.genruntimeconfig.cache
+D:\VJVP6\13_Inheritance\e_single_same_method\obj\Debug\net7.0\ref\e_single_same_method.dll

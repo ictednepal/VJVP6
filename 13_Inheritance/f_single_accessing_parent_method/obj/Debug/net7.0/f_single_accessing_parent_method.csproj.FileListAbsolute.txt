@@ -1,0 +1,15 @@
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.exe
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.deps.json
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.runtimeconfig.json
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.dll
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.pdb
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.csproj.AssemblyReference.cache
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.AssemblyInfoInputs.cache
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.AssemblyInfo.cs
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.csproj.CoreCompileInputs.cache
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.dll
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\refint\f_single_accessing_parent_method.dll
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.pdb
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.genruntimeconfig.cache
+D:\VJVP6\13_Inheritance\f_single_accessing_parent_method\obj\Debug\net7.0\ref\f_single_accessing_parent_method.dll

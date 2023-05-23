@@ -1,0 +1,15 @@
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.csproj.AssemblyReference.cache
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.AssemblyInfoInputs.cache
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.AssemblyInfo.cs
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.csproj.CoreCompileInputs.cache
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\bin\Debug\net7.0\c_hierarchical_inheritance.exe
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\bin\Debug\net7.0\c_hierarchical_inheritance.deps.json
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\bin\Debug\net7.0\c_hierarchical_inheritance.runtimeconfig.json
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\bin\Debug\net7.0\c_hierarchical_inheritance.dll
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\bin\Debug\net7.0\c_hierarchical_inheritance.pdb
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.dll
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\refint\c_hierarchical_inheritance.dll
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.pdb
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\c_hierarchical_inheritance.genruntimeconfig.cache
+D:\VJVP6\13_Inheritance\c_hierarchical_inheritance\obj\Debug\net7.0\ref\c_hierarchical_inheritance.dll
