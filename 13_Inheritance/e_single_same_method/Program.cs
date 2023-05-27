@@ -9,7 +9,7 @@ class SuperClass
 }
 class SubClass : SuperClass
 {
-    public void hi()
+    public new void hi()
     {
         Console.WriteLine("Hello, this is sub class");
     }
