@@ -1,0 +1,15 @@
+D:\VJVP6\14_Encapsulation\bin\Debug\net7.0\14_Encapsulation.exe
+D:\VJVP6\14_Encapsulation\bin\Debug\net7.0\14_Encapsulation.deps.json
+D:\VJVP6\14_Encapsulation\bin\Debug\net7.0\14_Encapsulation.runtimeconfig.json
+D:\VJVP6\14_Encapsulation\bin\Debug\net7.0\14_Encapsulation.dll
+D:\VJVP6\14_Encapsulation\bin\Debug\net7.0\14_Encapsulation.pdb
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.csproj.AssemblyReference.cache
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.AssemblyInfoInputs.cache
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.AssemblyInfo.cs
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.csproj.CoreCompileInputs.cache
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.dll
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\refint\14_Encapsulation.dll
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.pdb
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.genruntimeconfig.cache
+D:\VJVP6\14_Encapsulation\obj\Debug\net7.0\ref\14_Encapsulation.dll
