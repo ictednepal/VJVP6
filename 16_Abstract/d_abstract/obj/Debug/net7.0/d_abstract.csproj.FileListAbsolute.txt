@@ -1,0 +1,15 @@
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.csproj.AssemblyReference.cache
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.AssemblyInfoInputs.cache
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.AssemblyInfo.cs
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.csproj.CoreCompileInputs.cache
+D:\VJVP6\16_Abstract\d_abstract\bin\Debug\net7.0\d_abstract.exe
+D:\VJVP6\16_Abstract\d_abstract\bin\Debug\net7.0\d_abstract.deps.json
+D:\VJVP6\16_Abstract\d_abstract\bin\Debug\net7.0\d_abstract.runtimeconfig.json
+D:\VJVP6\16_Abstract\d_abstract\bin\Debug\net7.0\d_abstract.dll
+D:\VJVP6\16_Abstract\d_abstract\bin\Debug\net7.0\d_abstract.pdb
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.dll
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\refint\d_abstract.dll
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.pdb
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\d_abstract.genruntimeconfig.cache
+D:\VJVP6\16_Abstract\d_abstract\obj\Debug\net7.0\ref\d_abstract.dll
