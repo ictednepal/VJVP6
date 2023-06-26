@@ -1,0 +1,15 @@
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.csproj.AssemblyReference.cache
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.AssemblyInfoInputs.cache
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.AssemblyInfo.cs
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.csproj.CoreCompileInputs.cache
+D:\VJVP6\17_Interface\a_interface\bin\Debug\net7.0\a_interface.exe
+D:\VJVP6\17_Interface\a_interface\bin\Debug\net7.0\a_interface.deps.json
+D:\VJVP6\17_Interface\a_interface\bin\Debug\net7.0\a_interface.runtimeconfig.json
+D:\VJVP6\17_Interface\a_interface\bin\Debug\net7.0\a_interface.dll
+D:\VJVP6\17_Interface\a_interface\bin\Debug\net7.0\a_interface.pdb
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.dll
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\refint\a_interface.dll
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.pdb
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\a_interface.genruntimeconfig.cache
+D:\VJVP6\17_Interface\a_interface\obj\Debug\net7.0\ref\a_interface.dll
