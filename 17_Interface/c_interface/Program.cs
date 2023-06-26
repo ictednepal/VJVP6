@@ -1,4 +1,5 @@
-﻿namespace c_interface;
+﻿// derived interfaces
+namespace c_interface;
 
 interface IOne
 {
