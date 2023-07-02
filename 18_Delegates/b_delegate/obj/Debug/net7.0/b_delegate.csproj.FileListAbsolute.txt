@@ -1,0 +1,15 @@
+D:\VJVP6\18_Delegates\b_delegate\bin\Debug\net7.0\b_delegate.exe
+D:\VJVP6\18_Delegates\b_delegate\bin\Debug\net7.0\b_delegate.deps.json
+D:\VJVP6\18_Delegates\b_delegate\bin\Debug\net7.0\b_delegate.runtimeconfig.json
+D:\VJVP6\18_Delegates\b_delegate\bin\Debug\net7.0\b_delegate.dll
+D:\VJVP6\18_Delegates\b_delegate\bin\Debug\net7.0\b_delegate.pdb
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.csproj.AssemblyReference.cache
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.AssemblyInfoInputs.cache
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.AssemblyInfo.cs
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.csproj.CoreCompileInputs.cache
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.dll
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\refint\b_delegate.dll
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.pdb
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\b_delegate.genruntimeconfig.cache
+D:\VJVP6\18_Delegates\b_delegate\obj\Debug\net7.0\ref\b_delegate.dll
