@@ -1,0 +1,15 @@
+D:\VJVP6\19_Lambda\b_lambda\bin\Debug\net7.0\b_lambda.exe
+D:\VJVP6\19_Lambda\b_lambda\bin\Debug\net7.0\b_lambda.deps.json
+D:\VJVP6\19_Lambda\b_lambda\bin\Debug\net7.0\b_lambda.runtimeconfig.json
+D:\VJVP6\19_Lambda\b_lambda\bin\Debug\net7.0\b_lambda.dll
+D:\VJVP6\19_Lambda\b_lambda\bin\Debug\net7.0\b_lambda.pdb
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.csproj.AssemblyReference.cache
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.AssemblyInfoInputs.cache
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.AssemblyInfo.cs
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.csproj.CoreCompileInputs.cache
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.dll
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\refint\b_lambda.dll
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.pdb
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\b_lambda.genruntimeconfig.cache
+D:\VJVP6\19_Lambda\b_lambda\obj\Debug\net7.0\ref\b_lambda.dll
