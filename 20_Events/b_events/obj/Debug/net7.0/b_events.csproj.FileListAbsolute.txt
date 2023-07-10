@@ -1,0 +1,15 @@
+D:\VJVP6\20_Events\b_events\bin\Debug\net7.0\b_events.exe
+D:\VJVP6\20_Events\b_events\bin\Debug\net7.0\b_events.deps.json
+D:\VJVP6\20_Events\b_events\bin\Debug\net7.0\b_events.runtimeconfig.json
+D:\VJVP6\20_Events\b_events\bin\Debug\net7.0\b_events.dll
+D:\VJVP6\20_Events\b_events\bin\Debug\net7.0\b_events.pdb
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.csproj.AssemblyReference.cache
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.AssemblyInfoInputs.cache
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.AssemblyInfo.cs
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.csproj.CoreCompileInputs.cache
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.dll
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\refint\b_events.dll
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.pdb
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\b_events.genruntimeconfig.cache
+D:\VJVP6\20_Events\b_events\obj\Debug\net7.0\ref\b_events.dll
