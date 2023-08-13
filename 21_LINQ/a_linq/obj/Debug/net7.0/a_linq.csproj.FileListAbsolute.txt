@@ -1,0 +1,15 @@
+D:\VJVP6\21_LINQ\a_linq\bin\Debug\net7.0\a_linq.exe
+D:\VJVP6\21_LINQ\a_linq\bin\Debug\net7.0\a_linq.deps.json
+D:\VJVP6\21_LINQ\a_linq\bin\Debug\net7.0\a_linq.runtimeconfig.json
+D:\VJVP6\21_LINQ\a_linq\bin\Debug\net7.0\a_linq.dll
+D:\VJVP6\21_LINQ\a_linq\bin\Debug\net7.0\a_linq.pdb
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.csproj.AssemblyReference.cache
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.AssemblyInfoInputs.cache
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.AssemblyInfo.cs
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.csproj.CoreCompileInputs.cache
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.dll
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\refint\a_linq.dll
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.pdb
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\a_linq.genruntimeconfig.cache
+D:\VJVP6\21_LINQ\a_linq\obj\Debug\net7.0\ref\a_linq.dll
