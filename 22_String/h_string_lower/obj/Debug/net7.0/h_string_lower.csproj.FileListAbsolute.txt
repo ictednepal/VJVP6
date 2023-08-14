@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\h_string_lower\bin\Debug\net7.0\h_string_lower.exe
+D:\VJVP6\22_String\h_string_lower\bin\Debug\net7.0\h_string_lower.deps.json
+D:\VJVP6\22_String\h_string_lower\bin\Debug\net7.0\h_string_lower.runtimeconfig.json
+D:\VJVP6\22_String\h_string_lower\bin\Debug\net7.0\h_string_lower.dll
+D:\VJVP6\22_String\h_string_lower\bin\Debug\net7.0\h_string_lower.pdb
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.AssemblyInfo.cs
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.dll
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\refint\h_string_lower.dll
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.pdb
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\h_string_lower.genruntimeconfig.cache
+D:\VJVP6\22_String\h_string_lower\obj\Debug\net7.0\ref\h_string_lower.dll

@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.AssemblyInfo.cs
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\c_string_compare\bin\Debug\net7.0\c_string_compare.exe
+D:\VJVP6\22_String\c_string_compare\bin\Debug\net7.0\c_string_compare.deps.json
+D:\VJVP6\22_String\c_string_compare\bin\Debug\net7.0\c_string_compare.runtimeconfig.json
+D:\VJVP6\22_String\c_string_compare\bin\Debug\net7.0\c_string_compare.dll
+D:\VJVP6\22_String\c_string_compare\bin\Debug\net7.0\c_string_compare.pdb
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.dll
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\refint\c_string_compare.dll
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.pdb
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\c_string_compare.genruntimeconfig.cache
+D:\VJVP6\22_String\c_string_compare\obj\Debug\net7.0\ref\c_string_compare.dll

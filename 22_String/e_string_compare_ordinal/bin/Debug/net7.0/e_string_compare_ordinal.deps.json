@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "e_string_compare_ordinal/1.0.0": {
+        "runtime": {
+          "e_string_compare_ordinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e_string_compare_ordinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

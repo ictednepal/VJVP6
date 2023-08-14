@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\g_string_copy\bin\Debug\net7.0\g_string_copy.exe
+D:\VJVP6\22_String\g_string_copy\bin\Debug\net7.0\g_string_copy.deps.json
+D:\VJVP6\22_String\g_string_copy\bin\Debug\net7.0\g_string_copy.runtimeconfig.json
+D:\VJVP6\22_String\g_string_copy\bin\Debug\net7.0\g_string_copy.dll
+D:\VJVP6\22_String\g_string_copy\bin\Debug\net7.0\g_string_copy.pdb
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.AssemblyInfo.cs
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.dll
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\refint\g_string_copy.dll
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.pdb
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\g_string_copy.genruntimeconfig.cache
+D:\VJVP6\22_String\g_string_copy\obj\Debug\net7.0\ref\g_string_copy.dll

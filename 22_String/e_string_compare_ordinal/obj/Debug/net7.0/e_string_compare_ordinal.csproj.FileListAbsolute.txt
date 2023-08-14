@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\e_string_compare_ordinal\bin\Debug\net7.0\e_string_compare_ordinal.exe
+D:\VJVP6\22_String\e_string_compare_ordinal\bin\Debug\net7.0\e_string_compare_ordinal.deps.json
+D:\VJVP6\22_String\e_string_compare_ordinal\bin\Debug\net7.0\e_string_compare_ordinal.runtimeconfig.json
+D:\VJVP6\22_String\e_string_compare_ordinal\bin\Debug\net7.0\e_string_compare_ordinal.dll
+D:\VJVP6\22_String\e_string_compare_ordinal\bin\Debug\net7.0\e_string_compare_ordinal.pdb
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.AssemblyInfo.cs
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.dll
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\refint\e_string_compare_ordinal.dll
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.pdb
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\e_string_compare_ordinal.genruntimeconfig.cache
+D:\VJVP6\22_String\e_string_compare_ordinal\obj\Debug\net7.0\ref\e_string_compare_ordinal.dll

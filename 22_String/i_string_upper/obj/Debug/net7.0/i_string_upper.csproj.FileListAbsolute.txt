@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\i_string_upper\bin\Debug\net7.0\i_string_upper.exe
+D:\VJVP6\22_String\i_string_upper\bin\Debug\net7.0\i_string_upper.deps.json
+D:\VJVP6\22_String\i_string_upper\bin\Debug\net7.0\i_string_upper.runtimeconfig.json
+D:\VJVP6\22_String\i_string_upper\bin\Debug\net7.0\i_string_upper.dll
+D:\VJVP6\22_String\i_string_upper\bin\Debug\net7.0\i_string_upper.pdb
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.AssemblyInfo.cs
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.dll
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\refint\i_string_upper.dll
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.pdb
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\i_string_upper.genruntimeconfig.cache
+D:\VJVP6\22_String\i_string_upper\obj\Debug\net7.0\ref\i_string_upper.dll

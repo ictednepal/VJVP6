@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.AssemblyInfo.cs
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\b_string_clone\bin\Debug\net7.0\b_string_clone.exe
+D:\VJVP6\22_String\b_string_clone\bin\Debug\net7.0\b_string_clone.deps.json
+D:\VJVP6\22_String\b_string_clone\bin\Debug\net7.0\b_string_clone.runtimeconfig.json
+D:\VJVP6\22_String\b_string_clone\bin\Debug\net7.0\b_string_clone.dll
+D:\VJVP6\22_String\b_string_clone\bin\Debug\net7.0\b_string_clone.pdb
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.dll
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\refint\b_string_clone.dll
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.pdb
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\b_string_clone.genruntimeconfig.cache
+D:\VJVP6\22_String\b_string_clone\obj\Debug\net7.0\ref\b_string_clone.dll

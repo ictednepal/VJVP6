@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\f_string_contains\bin\Debug\net7.0\f_string_contains.exe
+D:\VJVP6\22_String\f_string_contains\bin\Debug\net7.0\f_string_contains.deps.json
+D:\VJVP6\22_String\f_string_contains\bin\Debug\net7.0\f_string_contains.runtimeconfig.json
+D:\VJVP6\22_String\f_string_contains\bin\Debug\net7.0\f_string_contains.dll
+D:\VJVP6\22_String\f_string_contains\bin\Debug\net7.0\f_string_contains.pdb
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.AssemblyInfo.cs
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.dll
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\refint\f_string_contains.dll
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.pdb
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\f_string_contains.genruntimeconfig.cache
+D:\VJVP6\22_String\f_string_contains\obj\Debug\net7.0\ref\f_string_contains.dll

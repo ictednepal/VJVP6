@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\a_string\bin\Debug\net7.0\a_string.exe
+D:\VJVP6\22_String\a_string\bin\Debug\net7.0\a_string.deps.json
+D:\VJVP6\22_String\a_string\bin\Debug\net7.0\a_string.runtimeconfig.json
+D:\VJVP6\22_String\a_string\bin\Debug\net7.0\a_string.dll
+D:\VJVP6\22_String\a_string\bin\Debug\net7.0\a_string.pdb
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.AssemblyInfo.cs
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.dll
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\refint\a_string.dll
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.pdb
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\a_string.genruntimeconfig.cache
+D:\VJVP6\22_String\a_string\obj\Debug\net7.0\ref\a_string.dll

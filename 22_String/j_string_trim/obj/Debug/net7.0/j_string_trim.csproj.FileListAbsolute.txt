@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\j_string_trim\bin\Debug\net7.0\j_string_trim.exe
+D:\VJVP6\22_String\j_string_trim\bin\Debug\net7.0\j_string_trim.deps.json
+D:\VJVP6\22_String\j_string_trim\bin\Debug\net7.0\j_string_trim.runtimeconfig.json
+D:\VJVP6\22_String\j_string_trim\bin\Debug\net7.0\j_string_trim.dll
+D:\VJVP6\22_String\j_string_trim\bin\Debug\net7.0\j_string_trim.pdb
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.AssemblyInfo.cs
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.dll
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\refint\j_string_trim.dll
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.pdb
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\j_string_trim.genruntimeconfig.cache
+D:\VJVP6\22_String\j_string_trim\obj\Debug\net7.0\ref\j_string_trim.dll

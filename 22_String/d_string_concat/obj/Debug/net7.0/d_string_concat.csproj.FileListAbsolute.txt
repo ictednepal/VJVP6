@@ -1,0 +1,14 @@
+D:\VJVP6\22_String\d_string_concat\bin\Debug\net7.0\d_string_concat.exe
+D:\VJVP6\22_String\d_string_concat\bin\Debug\net7.0\d_string_concat.deps.json
+D:\VJVP6\22_String\d_string_concat\bin\Debug\net7.0\d_string_concat.runtimeconfig.json
+D:\VJVP6\22_String\d_string_concat\bin\Debug\net7.0\d_string_concat.dll
+D:\VJVP6\22_String\d_string_concat\bin\Debug\net7.0\d_string_concat.pdb
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.AssemblyInfoInputs.cache
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.AssemblyInfo.cs
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.csproj.CoreCompileInputs.cache
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.dll
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\refint\d_string_concat.dll
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.pdb
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\d_string_concat.genruntimeconfig.cache
+D:\VJVP6\22_String\d_string_concat\obj\Debug\net7.0\ref\d_string_concat.dll
