@@ -1,0 +1,14 @@
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.AssemblyInfoInputs.cache
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.AssemblyInfo.cs
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.csproj.CoreCompileInputs.cache
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\bin\Debug\net7.0\c_string_builder_insert.exe
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\bin\Debug\net7.0\c_string_builder_insert.deps.json
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\bin\Debug\net7.0\c_string_builder_insert.runtimeconfig.json
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\bin\Debug\net7.0\c_string_builder_insert.dll
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\bin\Debug\net7.0\c_string_builder_insert.pdb
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.dll
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\refint\c_string_builder_insert.dll
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.pdb
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\c_string_builder_insert.genruntimeconfig.cache
+D:\VJVP6\23_StringBuilder\c_string_builder_insert\obj\Debug\net7.0\ref\c_string_builder_insert.dll

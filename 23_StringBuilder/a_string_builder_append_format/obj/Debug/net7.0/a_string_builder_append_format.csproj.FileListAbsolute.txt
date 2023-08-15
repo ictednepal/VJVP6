@@ -1,0 +1,14 @@
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.AssemblyInfoInputs.cache
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.AssemblyInfo.cs
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.csproj.CoreCompileInputs.cache
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\bin\Debug\net7.0\a_string_builder_append_format.exe
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\bin\Debug\net7.0\a_string_builder_append_format.deps.json
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\bin\Debug\net7.0\a_string_builder_append_format.runtimeconfig.json
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\bin\Debug\net7.0\a_string_builder_append_format.dll
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\bin\Debug\net7.0\a_string_builder_append_format.pdb
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.dll
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\refint\a_string_builder_append_format.dll
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.pdb
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\a_string_builder_append_format.genruntimeconfig.cache
+D:\VJVP6\23_StringBuilder\a_string_builder_append_format\obj\Debug\net7.0\ref\a_string_builder_append_format.dll
