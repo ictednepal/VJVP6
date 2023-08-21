@@ -1,0 +1,15 @@
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\bin\Debug\net7.0\c_generic_queue_t.exe
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\bin\Debug\net7.0\c_generic_queue_t.deps.json
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\bin\Debug\net7.0\c_generic_queue_t.runtimeconfig.json
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\bin\Debug\net7.0\c_generic_queue_t.dll
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\bin\Debug\net7.0\c_generic_queue_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.csproj.AssemblyReference.cache
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.AssemblyInfoInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.AssemblyInfo.cs
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.csproj.CoreCompileInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.dll
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\refint\c_generic_queue_t.dll
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\c_generic_queue_t.genruntimeconfig.cache
+D:\VJVP\9_Collections\9.1_Generic\c_generic_queue_t\obj\Debug\net7.0\ref\c_generic_queue_t.dll

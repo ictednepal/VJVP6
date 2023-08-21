@@ -1,0 +1,15 @@
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\bin\Debug\net7.0\a_generic_list_t.exe
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\bin\Debug\net7.0\a_generic_list_t.deps.json
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\bin\Debug\net7.0\a_generic_list_t.runtimeconfig.json
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\bin\Debug\net7.0\a_generic_list_t.dll
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\bin\Debug\net7.0\a_generic_list_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.csproj.AssemblyReference.cache
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.AssemblyInfoInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.AssemblyInfo.cs
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.csproj.CoreCompileInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.dll
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\refint\a_generic_list_t.dll
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\a_generic_list_t.genruntimeconfig.cache
+D:\VJVP\9_Collections\9.1_Generic\a_generic_list_t\obj\Debug\net7.0\ref\a_generic_list_t.dll

@@ -1,0 +1,15 @@
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\bin\Debug\net7.0\f_stack_t.exe
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\bin\Debug\net7.0\f_stack_t.deps.json
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\bin\Debug\net7.0\f_stack_t.runtimeconfig.json
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\bin\Debug\net7.0\f_stack_t.dll
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\bin\Debug\net7.0\f_stack_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.csproj.AssemblyReference.cache
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.AssemblyInfoInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.AssemblyInfo.cs
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.csproj.CoreCompileInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.dll
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\refint\f_stack_t.dll
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\f_stack_t.genruntimeconfig.cache
+D:\VJVP\9_Collections\9.1_Generic\f_stack_t\obj\Debug\net7.0\ref\f_stack_t.dll

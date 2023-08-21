@@ -1,0 +1,14 @@
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.AssemblyInfoInputs.cache
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.AssemblyInfo.cs
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.csproj.CoreCompileInputs.cache
+D:\VJVP6\24_Regex\a_regex\bin\Debug\net7.0\a_regex.exe
+D:\VJVP6\24_Regex\a_regex\bin\Debug\net7.0\a_regex.deps.json
+D:\VJVP6\24_Regex\a_regex\bin\Debug\net7.0\a_regex.runtimeconfig.json
+D:\VJVP6\24_Regex\a_regex\bin\Debug\net7.0\a_regex.dll
+D:\VJVP6\24_Regex\a_regex\bin\Debug\net7.0\a_regex.pdb
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.dll
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\refint\a_regex.dll
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.pdb
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\a_regex.genruntimeconfig.cache
+D:\VJVP6\24_Regex\a_regex\obj\Debug\net7.0\ref\a_regex.dll

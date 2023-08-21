@@ -1,0 +1,15 @@
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\bin\Debug\net7.0\m_generic_sortedList_t.exe
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\bin\Debug\net7.0\m_generic_sortedList_t.deps.json
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\bin\Debug\net7.0\m_generic_sortedList_t.runtimeconfig.json
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\bin\Debug\net7.0\m_generic_sortedList_t.dll
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\bin\Debug\net7.0\m_generic_sortedList_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.csproj.AssemblyReference.cache
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.AssemblyInfoInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.AssemblyInfo.cs
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.csproj.CoreCompileInputs.cache
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.dll
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\refint\m_generic_sortedList_t.dll
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.pdb
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\m_generic_sortedList_t.genruntimeconfig.cache
+D:\VJVP\9_Collections\9.1_Generic\m_generic_sortedList_t\obj\Debug\net7.0\ref\m_generic_sortedList_t.dll
